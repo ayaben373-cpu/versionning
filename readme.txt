@@ -1,7 +1,2 @@
-body {
-        margin: 1% 10%;
-}
+demander quoi mettre ici
 
-h1 {
-    color: red (comprendre comment mettre red normal)
-}
